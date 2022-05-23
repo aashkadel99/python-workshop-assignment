@@ -1,0 +1,11 @@
+first = int(input("Enter first number: "))
+second = int(input("Enter second number: "))
+
+print('\n')
+print(f'Addition of {first} and {second}:', first + second)
+print(f'Subtraction of {first} and {second}:', first - second)
+print(f'Multipiction of {first} and {second}:', first * second)
+print(f'Division of {first} and {second}: ', first / second)
+print(f'Modulus of {first} and {second}: ', first % second)
+print(f'Quotient divison of {first} and {second}: ', first // second)
+print(f'Result of {first} to the power {second}: ', first ** second)
